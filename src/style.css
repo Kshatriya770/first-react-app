@@ -7,11 +7,13 @@ h1{
 }
 
 .button{
-    background-color: #3DBE29;
+    background-color:  #5737D6;
     border: none;
     color:#ffffff;
     padding: 15px 30px;
     text-align: center;
     text-decoration: none;
     font-size: medium;
+    margin-top: 5px;
+    margin-right: 5px;
 }
